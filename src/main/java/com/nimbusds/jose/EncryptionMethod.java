@@ -125,7 +125,7 @@ public final class EncryptionMethod extends Algorithm {
 	 * (optional)
 	 */
 	public static final EncryptionMethod XC20P =
-        new EncryptionMethod("XC20P", Requirement.OPTIONAL, 256);
+		new EncryptionMethod("XC20P", Requirement.OPTIONAL, 256);
 
 
 	/**
